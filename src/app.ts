@@ -3,7 +3,7 @@ import { ServerApp } from "./presentation/server-app";
 
 
 
-// FUNCION ANONIMA AUTOINVOCADA
+// FUNCION ANONIMA ASYNCRONA AUTOINVOCADA
 (async() => {
    await main()
     
